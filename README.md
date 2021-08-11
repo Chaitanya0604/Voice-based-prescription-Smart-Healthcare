@@ -1,0 +1,2 @@
+# Voice-Based-Prescription-Smart Healthcare
+ The patient  will be provided with an option to send a message about his illness, symptoms of the disease, and  how he is feeling through the voice commands without using keyboard. The doctor after receiving  the message from the patient and after the diagnosis of the disease will dictate his prescription  while talking to his phone or PC running windows which will reach the patient by an e-mail.
